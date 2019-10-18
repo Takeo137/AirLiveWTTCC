@@ -1,0 +1,40 @@
+.teste{
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	margin: 5% 0 0 35%;
+	border-radius: 10px;
+    background-color:#12445B;
+    color: #e8e8e8;
+    opacity: 1;
+    
+}
+
+.form-row{
+	background-color: #12445B;
+		border-radius: 10px;
+		color: #e8e8e8;
+}
+.teste label{
+	margin-top: 10px;
+
+}
+.navbar{
+	
+}
+
+
+
+body{
+
+background-image:url(https://image.freepik.com/fotos-gratis/fundo-de-tracado-de-tinta-azul-brilhante_64049-134.jpg);
+background-repeat: no-repeat;
+webkit-background-size: cover;
+background-size: cover;
+
+
+
+}
+
+
+
